@@ -1,6 +1,5 @@
 <html>
 <body>
-<h2>Hello World!</h2>
-<h2>hello again</h2>
+<h2>Welcome to SE Lab EXternal 2025!</h2>
 </body>
 </html>
